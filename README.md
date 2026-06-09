@@ -1,43 +1,23 @@
-<h1 align="center">👋 سلام، من [نام تو] هستم</h1>
+# Hi 👋, I'm Mohammad Ghasemian
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=برنامه‌نویس+وب+هستم;عاشق+React+و+Python;همیشه+در+حال+یادگیری&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+### Developer
+
+- 🌱 I'm currently learning **Linux & Advanced Docker & Advane GitHub for DevOps**
+
+- 👯 I'm looking to collaborate on ** I’m looking to collaborate on **Frontend projects (React/Vue) and DevOps automation (Docker, CI/CD, GitHub Actions)**
+
+- 🤝 I'm looking for help with **🤝 I'm looking for help with DevOps & Cloud - currently learning Docker, Kubernetes, CI/CD pipelines**
+
+- 💬 Ask me about ** Ask me about Frontend development (React, JavaScript, Tailwind), responsive design, and debugging CSS**
+
+- 📫 How to reach me **ghasemianmohammad2@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/ToxicGhost" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ToxicGhost" height="30" width="40" /></a>
+<a href="https://instagram.com/mo-ha-mad1221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo-ha-mad1221" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
 
-## 🚀 درباره من
-
-- 🔭 در حال کار روی پروژه‌های متن‌باز
-- 🌱 در حال یادگیری **Next.js** و **TypeScript**
-- 💬 بپرس از من: **React، Django، Git**
-- 📫 چطور به من برسی: [ایمیلت@example.com](mailto:email@example.com)
-- ⚡ حقیقت جالب: عاشق قهوه و حل چالش‌های الگوریتمی هستم
-
----
-
-## 🛠️ مهارت‌ها
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-## 📊 آمار گیت‌هاب من
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="آمار گیت‌هاب" />
-</p>
-
----
-
-## 🔝 پروژه‌های محبوب من
-
-- [نام پروژه 1](لینک) - توضیح کوتاه
-- [نام پروژه 2](لینک) - توضیح کوتاه
-- [نام پروژه 3](لینک) - توضیح کوتاه
