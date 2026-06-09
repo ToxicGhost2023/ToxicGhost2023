@@ -1,4 +1,7 @@
 # Hi 👋, I'm Mohammad Ghasemian
+<div align="center">
+  <img width="500" src="https://i.pinimg.com/1200x/0f/4f/1e/0f4f1eda3f128125d764414c2a5c8239.jpg" alt="coding">
+</div>
 
 ### Developer
 
