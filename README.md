@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.pinimg.com/1200x/0f/4f/1e/0f4f1eda3f128125d764414c2a5c8239.jpg" alt="coding" width="40%" />
-</div>
+
 
 <br/>
 
